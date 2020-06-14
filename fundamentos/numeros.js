@@ -14,3 +14,14 @@ const media = (peso1 * aval1 + peso2 * aval2) / (peso1 + peso2)
 
 // Definindo a quantidade de casas decimais
 console.log(media.toFixed(2))
+
+// Divisão por zero roda
+console.log(1/0)
+
+// Divisão por string contendo números roda
+console.log('10'/2)
+
+// Produto de strigns com números, retorna NaN
+console.log('show'*2)
+
+
