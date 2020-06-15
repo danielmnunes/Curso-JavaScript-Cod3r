@@ -9,4 +9,3 @@ objeto.cpf = '123.456.789-10'
 
 console.log(objeto)
 
-console.log(objeto.keys)
